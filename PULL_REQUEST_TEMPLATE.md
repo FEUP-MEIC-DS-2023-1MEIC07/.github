@@ -27,3 +27,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] You have added tests
 - [ ] You have updated the documentation
 - [ ] Your code builds clean without any errors or warnings
+
+## If this PR implements a user story, does it adhere to the [Definition of Done](https://github.com/FEUP-MEIC-DS-2023-1MEIC07/ThingzLinker/blob/main/docs/development.md#definition-of-done)?
+- [ ] Yes
+- [ ] No
