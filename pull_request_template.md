@@ -1,7 +1,10 @@
 ## Description
 
 <!-- Please do not leave this blank. This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. -->
-
+## Review Strategy
+- [ ] Pair Programming
+- [ ] Mob Programming
+- [ ] Async Review
 ## What type of PR is this? (check all applicable)
 
 - [ ] Feature
